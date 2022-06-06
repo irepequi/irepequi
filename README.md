@@ -1,4 +1,4 @@
-# Hi 👋 My name is Irene
+# Hi Waving hand animated gif My name is Irene
 
 ## Full Stack Web Developer | UX | Graphic Designer
 
