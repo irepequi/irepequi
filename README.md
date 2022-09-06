@@ -18,6 +18,11 @@ const irene = {
   tools: [Angular, React, Redux, Node.js, express, Sass, Bootstrap, Figma],
   architecture: ["microservices", "event-driven", "design system pattern"],
   others: [Photoshop, Illustrator, After Effects, Premiere],
+  socials: {
+           github: <a href="https://www.github.com/irepequi" target="_blank" rel="noreferrer">irepequi</a>
+           instagram: <a href="http://www.instagram.com/irepequi.dev/" target="_blank" rel="noreferrer">irepequi.dev</a>
+           linkedin: <a href="https://www.linkedin.com/in/irene-perez-quijada/" target="_blank" rel="noreferrer">Irene Pérez</a>        
+  }
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
