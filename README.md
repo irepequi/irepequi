@@ -15,7 +15,7 @@
 const irene = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, MySQL],
-  tools: [Angular, React, Redux, Node.js, express, Sass, Bootstrap, Figma],
+  tools: [Angular, RxJS, React, Redux, Node.js, Express, Sass, Bootstrap, Figma],
   architecture: ["microservices", "event-driven", "design system pattern"],
   others: [Photoshop, Illustrator, After Effects, Premiere],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
