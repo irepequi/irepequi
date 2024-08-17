@@ -14,8 +14,8 @@
 ```javascript
 const irene = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, MySQL],
-  tools: [Angular, RxJS, React, Redux, Node.js, Express, Sass, Bootstrap, Figma],
+  code: [Javascript, Typescript, AMPscript, SSJS, GTL, HTML, CSS, MySQL],
+  tools: [React, Redux, Node.js, Express, Angular, RxJS, Sass, Bootstrap, Figma],
   others: [Photoshop, Illustrator, After Effects, Premiere],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
