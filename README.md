@@ -3,12 +3,12 @@
          height="45"
          width="45" />, I'm Irene Pérez</h1>
 
-<h3> Full Stack Web Developer | UX | Graphic Designer </h3>
+<h3> Full Stack Web Developer | UX/UI </h3>
 
 <p>I'm organized and pay attention to detail. Patience, style and ingenuity are my trademark.</p>
 
-- 🌍  I'm based in Seville, Spain.
-- 🖥️  See my portfolio at [my website](http://www.irepequi.com)
+         🌍  I'm based in Seville, Spain.
+         🖥️  See my portfolio at [my website](https://www.irepequi.com)
 
 ### Skills
 ```javascript
@@ -17,7 +17,6 @@ const irene = {
   code: [Javascript, Typescript, AMPscript, SSJS, GTL, HTML, CSS, MySQL],
   tools: [React, Redux, Node.js, Express, Angular, RxJS, Sass, Bootstrap, Figma],
   others: [Photoshop, Illustrator, After Effects, Premiere],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
