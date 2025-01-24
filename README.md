@@ -7,8 +7,8 @@
 
 <p>I'm organized and pay attention to detail. Patience, style and ingenuity are my trademark.</p>
 
-         🌍  I'm based in Seville, Spain.
-         🖥️  See my portfolio at [my website](https://www.irepequi.com)
+   🌍  I'm based in Seville, Spain.
+   🖥️  See my portfolio at [my website](https://www.irepequi.com)
 
 ### Skills
 ```javascript
