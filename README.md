@@ -14,9 +14,9 @@
 ```javascript
 const irene = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, AMPscript, SSJS, GTL, HTML, CSS, MySQL],
-  tools: [React, Redux, Node.js, Express, Angular, RxJS, Sass, Bootstrap, Figma],
-  others: [Photoshop, Illustrator, After Effects, Premiere],
+  languages: [JavaScript, TypeScript, AMPscript, SSJS, GTL, HTML, CSS, MySQL],
+  frameworks_libraries: [React, Redux, Angular, RxJS, Node.js, Express, Sass, Bootstrap, Material-UI, PrimeNG],
+  tools: [Figma, Photoshop, Illustrator, After Effects, Premiere],
 }
 ```
 
